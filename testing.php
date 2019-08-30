@@ -10,4 +10,5 @@ for ($i=0; $i < count($array); $i++) {
     $sum += $array[$i]['amount'];
 
 }
+
 print($sum);
