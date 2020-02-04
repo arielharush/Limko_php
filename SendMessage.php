@@ -23,4 +23,4 @@ class SendMessage{
     }
 }
 
-// SendMessage::sendText('https://api.telegram.org/bot828249115:AAHCsXdvJwCKtkzOiZBZtCcMk6d3SrM77LI/sendMessage','896495771','34','56','true','false','');
+// SendMessage::sendText('https://api.telegram.org/:/sendMessage','','34','56','true','false','');
